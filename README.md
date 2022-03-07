@@ -26,3 +26,6 @@ Then in your view controller do:
     ratingContentView.rate
     
     The rating is truncated into a single decimal point (i.e. 1.1). You can change that in RatingCustomView in function called rateAt. Change the 50 to 500 and 10 to 100 to get 2 decimal points and so on and so forth. 
+
+
+![alt text](https://github.com/AmirJahan/Swift_Star-Rating/blob/master/Swift_Star-Rating.gif?raw=true)
